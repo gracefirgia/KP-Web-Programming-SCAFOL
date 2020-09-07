@@ -1,0 +1,35 @@
+body {
+	background-color: #f5efee;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	background-color: #fdfefe;
+	margin: auto;
+	margin-top: 50px;
+	min-height: 920px;
+	max-width: 1920px;
+	border-radius: 5px;
+	border: 2px solid #D3D3D3;
+}
+
+#containera {
+	background-color: #fdfefe;
+	margin: auto;
+	margin-top: 50px;
+	min-height: 920px;
+	max-width: 1920px;
+	border-radius: 5px;
+	border: 2px solid #D3D3D3;
+}
+
+.btn-light {
+	background-color: #d7dbdd;
+}
+
+#verticalLine {
+	width: 3px;
+	min-height: 100%;
+	background-color: #d7dbdd;
+}
